@@ -1,5 +1,7 @@
 # JavaScript Based Simple Calculator
 
+### Getting Projects
+
 1. Fork this repository.
 2. Clone the forked repository.
 
@@ -12,3 +14,5 @@ git clone https://github.com/developerroshank/JavaScript-Based-Simple-Calculator
 ```
 cd JavaScript-Based-Simple-Calculator
 ```
+
+4. 
