@@ -10,5 +10,5 @@ git clone https://github.com/developerroshank/JavaScript-Based-Simple-Calculator
 3. Navigate to the project directory.
 
 ```
-cd 
+cd JavaScript-Based-Simple-Calculator
 ```
