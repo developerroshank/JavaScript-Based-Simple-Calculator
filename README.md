@@ -15,8 +15,6 @@ git clone https://github.com/developerroshank/JavaScript-Based-Simple-Calculator
 cd JavaScript-Based-Simple-Calculator
 ```
 
-4. 
+## License
 
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/developerroshank/JavaScript-Based-Simple-Calculator?tab=MIT-1-ov-file) file for details.
