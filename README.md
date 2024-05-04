@@ -1,6 +1,6 @@
 # JavaScript Based Simple Calculator
 
-## Demo
+## Demo 
 
 Website hosted here : https://calculatorappa.netlify.app/ 
 
