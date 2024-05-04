@@ -6,8 +6,8 @@ Website hosted here : https://calculatorappa.netlify.app/
 
 ## Getting Project
 
-1. Fork [this](https://github.com/developerroshank/JavaScript-Based-Simple-Calculator) repository. 
-2. `Clone` the forked repository.
+1. Fork [this](https://github.com/developerroshank/JavaScript-Based-Simple-Calculator) repository
+2. `Clone` the forked repository
 
 ```
 git clone https://github.com/developerroshank/JavaScript-Based-Simple-Calculator.git
