@@ -13,7 +13,7 @@ Website hosted here : https://calculatorappa.netlify.app/
 git clone https://github.com/developerroshank/JavaScript-Based-Simple-Calculator.git
 ```
 
-3. Navigate to the project directory.
+3. Navigate to the project directory
 
 ```
 cd JavaScript-Based-Simple-Calculator 
