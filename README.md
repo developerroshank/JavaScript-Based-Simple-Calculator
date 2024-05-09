@@ -1,4 +1,4 @@
-# JavaScript Based Simple Calculator
+# JavaScript Based Simple Calculator 
 
 ## Demo
 
