@@ -2,7 +2,7 @@
 
 ## Demo
 
-Website hosted here : https://calculatorappa.netlify.app/ 
+Website hosted here : https://calculatorappa.netlify.app/
 
 ## Getting Project
 
